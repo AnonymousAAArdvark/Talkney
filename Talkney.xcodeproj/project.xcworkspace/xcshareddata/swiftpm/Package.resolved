@@ -1,0 +1,15 @@
+{
+  "originHash" : "4d00a240b2f28c0bbb31b7f96072f828a711c044ed3fbfaddd36ce7d2134818c",
+  "pins" : [
+    {
+      "identity" : "pipkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Kofktu/PIPKit.git",
+      "state" : {
+        "revision" : "377ff1b5b2d9554268c77ac2f8d0f10c5c59e129",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
